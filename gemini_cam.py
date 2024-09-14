@@ -7,7 +7,7 @@ from google.generativeai.types import content_types
 import streamlit as st
 
 
-API_KEY = 'AIzaSyB8jXGdWQs2D2dousn59_x6f29dpDF9U_o'
+API_KEY = 'Enter your Gemini API HERE'
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-1.5-pro-001")
 
