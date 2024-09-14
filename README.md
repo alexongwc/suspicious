@@ -12,5 +12,5 @@ Step 3:
 streamlit run gemini_cam.py
 
 
-It connect your your webcam and analyze if there is something suspicious going.
+Utilize Gemini vision pro to generate description from video. 
 ![geminicam-ezgif com-video-to-gif-converter](https://github.com/alexongwc/suspicious/blob/main/geminicam-ezgif.com-video-to-gif-converter.gif)
