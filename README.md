@@ -13,4 +13,4 @@ streamlit run gemini_cam.py
 
 
 It connect your your webcam and analyze if there is something suspicious going.
-![geminicam-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c277add6-dac9-4ce0-9b2e-293d0ca6a7ae)
+![geminicam-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b364480a-49ec-46f9-bfef-fc48675e529b)
